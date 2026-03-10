@@ -1,0 +1,17 @@
+{
+  "name": "primer-trabajo1.1",
+  "version": "1.0.0",
+  "description": "Seminario De Actualización II 2026",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite --open",
+    "test": "echo \"Error: no test especificado\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "vite": "^7.3.1"
+  }
+}
