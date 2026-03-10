@@ -3,7 +3,7 @@
         const boton = document.getElementById('cambiarColor');
 
         inputTexto.addEventListener('keydown', function(event) {
-            if (event.key === 'Enter') {
+            if (event.key === ',') {
                 const valor = inputTexto.value.trim();
                 if (valor.length === 0) {
                     alert('No ingresaste ningún texto.');
