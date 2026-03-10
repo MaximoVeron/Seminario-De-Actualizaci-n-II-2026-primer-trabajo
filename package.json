@@ -4,7 +4,7 @@
   "description": "Seminario De Actualización II 2026",
   "main": "index.js",
   "scripts": {
-    "dev": "vite --open",
+    "dev": "vite --open --port 3000",
     "test": "echo \"Error: no test especificado\" && exit 1"
   },
   "keywords": [],

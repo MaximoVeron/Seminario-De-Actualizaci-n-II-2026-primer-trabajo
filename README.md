@@ -40,7 +40,7 @@ npm run dev
 4. El servidor abre el navegador automáticamente en:
 
 ```
-http://localhost:5173/
+http://localhost:3000/
 ```
 
 5. Para probar:
